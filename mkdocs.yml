@@ -1,7 +1,7 @@
 site_name: ARC Technical Documentation
-site_url: https://adguzr.github.io/arc-docs/
-repo_url: https://github.com/adguzr/arc-docs
-repo_name: adguzr/arc-docs
+site_url: https://arosar01.github.io/arc-mkdocs/
+repo_url: https://github.com/arosar01/arc-mkdocs
+repo_name: arosar01/arc-mkdocs
 edit_uri: edit/main/docs/
 
 theme:
